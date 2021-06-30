@@ -1,0 +1,10 @@
+.background {
+  background-image: url('Background.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.form {
+  padding-left: 50px;
+  color: white;
+}

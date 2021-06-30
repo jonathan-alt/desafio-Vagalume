@@ -1,0 +1,28 @@
+.passIcon {
+  display: flex;
+  position: absolute;
+
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+
+  background: transparent;
+  border: none;
+}
+
+.d-flex {
+  display: flex !important;
+  height: 100vh;
+}
+
+.center {
+  margin: 0 auto;
+  align-self: center;
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
